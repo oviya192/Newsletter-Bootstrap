@@ -1,0 +1,11 @@
+.hero-container{
+    height: 100vh;
+    background:url(https://browsecat.art/sites/default/files/cute-background-in-powerpoint-126604-1234655-1472071.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.row{
+    background-color: cadetblue;
+}
